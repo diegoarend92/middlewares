@@ -1,0 +1,1 @@
+Rotas disponiveis: api/products e api/users
